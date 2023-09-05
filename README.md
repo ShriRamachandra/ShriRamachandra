@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShrRamachandra
+- 👋 Hi, I’m @Ramachandra
 - 👀 I’m interested in software testing and front end development.
 - 🌱 I’m currently learning java,html,CSS,Javascript,Manual testing.
 - 💞️ I’m looking to collaborate and gain knowledge using my current skills.
